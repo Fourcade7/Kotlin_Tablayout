@@ -23,6 +23,9 @@
         app:tabPaddingEnd="25dp"
         app:tabMode="scrollable"
         app:tabIndicator="@drawable/ic_round_horizontal_rule_24"
+
+       app:tabIndicatorHeight="15dp"
+
         ></com.google.android.material.tabs.TabLayout>
 
 
